@@ -1,0 +1,18 @@
+{
+    "api_id":    24092270,
+    "api_hash": "d154aa89c3b48300ea04df284c6d6b39",
+    "admin": 743257846,
+    "bot_token": "7269610547:AAEqVP7zpgr5Z2VSjlBL97RiFofwc_M2ASE",
+    "tapswap_clicker": "off",
+    "hamster_clicker": "on",
+    "cexio_clicker": "on",
+    "blum_clicker": "on",
+    "rabbit_clicker": "on",
+    "auto_upgrade": true,
+    "max_days_for_return": 5,
+    "max_charge_level": 5,
+    "max_energy_level": 10,
+    "max_tap_level": 10,
+    "cexio_ref_code": "00",
+    "blum_ref_code": "00"
+}
